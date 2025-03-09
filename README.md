@@ -1,6 +1,6 @@
 # Hi, I'm Roberto 👋
 🎓 ICT & Business Student 
-💡 Interested in Data Analytics Engineering
+💡 Interested in Data Analytics and Data Engineering
 🔍 Seeking a Data Internship | [LinkedIn](https://www.linkedin.com/in/roberto-conti-030315119/)
 
 ## 📌 Projects
