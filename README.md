@@ -11,4 +11,4 @@
 - **Data Engineering:** DBT, Redshift, Pandas, Data Architecture, Data Pipeline
 - **Tools:** Git, Docker, AWS, Jupyter Notebooks
 
-📫 Reach me at [rconti@live.it] or [LinkedIn](https://https://www.linkedin.com/in/roberto-conti-030315119/)
+📫 Reach me at rconti@live.it or [LinkedIn](https://https://www.linkedin.com/in/roberto-conti-030315119/)
