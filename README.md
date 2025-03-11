@@ -4,7 +4,7 @@
 🔍 Seeking a Data Internship | [LinkedIn](https://www.linkedin.com/in/roberto-conti-030315119/)
 
 ## 📌 Projects
-- **[Book Tracker App](https://github.com/robyZcop/your-bookshelf-space)** - A web app to track books read, built with Flask & SQL.
+- **[Your BookshelfSpace App](https://github.com/robyZcop/your-bookshelf-space)** - A web app to track books read, built with Flask & SQL.
 
 ## 🛠 Skills
 - **Programming:** Python, SQL, R, JavaScript 
