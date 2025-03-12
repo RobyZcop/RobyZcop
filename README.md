@@ -5,6 +5,8 @@
 
 ## 📌 Projects
 - **[Your BookshelfSpace App](https://github.com/robyZcop/your-bookshelf-space)** - A web app to track books read, built with Flask & SQL.
+-  **[Hate Crimes United States](https://github.com/robyZcop/hate-crimes-us)** -
+
 - **[My Learning Path in Python](https://github.com/robyZcop/python-learning)** -- Beginner Python exercises, to practice different coding concepts.
 
 ## 🛠 Skills
