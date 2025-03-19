@@ -4,9 +4,10 @@
 🔍 Seeking a Data Internship | [LinkedIn](https://www.linkedin.com/in/roberto-conti-030315119/)
 
 ## 📌 Projects
-- **[Your BookshelfSpace App](https://github.com/robyZcop/your-bookshelf-space)** - A web app to track books read, built with Flask & SQL.
+- **[Your BookshelfSpace App](https://github.com/robyZcop/your-bookshelf-space)** - A web app built with Flask & SQL to track books read.
 - **[Hate Crimes United States](https://github.com/robyZcop/hate-crimes-us)** - Dashboard that explores Hate Crimes in the United States/
 - **[My Learning Path in Python](https://github.com/robyZcop/python-learning)** - Beginner Python exercises, to practice different coding concepts.
+- **[Cineworld ticket app database management ](https://github.com/robyZcop/cineworld-ticket-app)** - Database model and creation to manage data in a ticket app.
 
 ## 🛠 Skills
 - **Programming:** Python, SQL, R, JavaScript 
