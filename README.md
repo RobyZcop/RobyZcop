@@ -8,6 +8,7 @@
 - **[Hate Crimes United States](https://github.com/robyZcop/hate-crimes-us)** - Dashboard that explores Hate Crimes in the United States.
 - **[My Learning Path in Python](https://github.com/robyZcop/python-learning)** - Beginner Python exercises, to practice different coding concepts.
 - **[Cineworld ticket app database management ](https://github.com/robyZcop/cineworld-ticket-app)** - Database model and creation to manage data in a ticket app.
+- **[Fake News Detection Model ](https://github.com/robyZcop/cineworld-ticket-app)** - A Jupyter Notebook project using NLP and Machine Learning to classify news as real or fake.
 
 ## 🛠 Skills
 - **Programming:** Python, SQL, R, JavaScript 
