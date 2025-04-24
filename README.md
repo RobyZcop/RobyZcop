@@ -4,7 +4,7 @@
 🔍 Seeking a Data Internship | [LinkedIn](https://www.linkedin.com/in/roberto-conti-030315119/)
 
 ## 📌 Projects
-- **[Data Warehouse Project](https://github.com/robyZcop/data-warehouse-project)** - End-to-end SQL data warehouse implementation using Medallion Architecture for ERP and CRM data integration.
+- **[Data Warehouse Project](https://github.com/robyZcop/data-warehouse-project)** - SQL data warehouse implementation using Medallion Architecture for ERP and CRM data integration.
 - **[Your BookshelfSpace App](https://github.com/robyZcop/your-bookshelf-space)** - A web app built with Flask & SQL to track books read.
 - **[Hate Crimes United States](https://github.com/robyZcop/hate-crimes-us)** - Dashboard that explores Hate Crimes in the United States.
 - **[My Learning Path in Python](https://github.com/robyZcop/python-learning)** - Beginner Python exercises, to practice different coding concepts.
